@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/doctorLeon12345.github.io/my-appweb/static/css/main.073c9b0a.css",
-    "main.js": "/doctorLeon12345.github.io/my-appweb/static/js/main.29ac4953.js",
-    "static/js/787.9da2288d.chunk.js": "/doctorLeon12345.github.io/my-appweb/static/js/787.9da2288d.chunk.js",
-    "static/media/cat.jpeg": "/doctorLeon12345.github.io/my-appweb/static/media/cat.7fa0ce3d451f234b8905.jpeg",
-    "static/media/logo.svg": "/doctorLeon12345.github.io/my-appweb/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/doctorLeon12345.github.io/my-appweb/index.html",
-    "main.073c9b0a.css.map": "/doctorLeon12345.github.io/my-appweb/static/css/main.073c9b0a.css.map",
-    "main.29ac4953.js.map": "/doctorLeon12345.github.io/my-appweb/static/js/main.29ac4953.js.map",
-    "787.9da2288d.chunk.js.map": "/doctorLeon12345.github.io/my-appweb/static/js/787.9da2288d.chunk.js.map"
+    "main.css": "/doctorLeon12345/my-appweb.github.io/static/css/main.073c9b0a.css",
+    "main.js": "/doctorLeon12345/my-appweb.github.io/static/js/main.42df00ce.js",
+    "static/js/787.9da2288d.chunk.js": "/doctorLeon12345/my-appweb.github.io/static/js/787.9da2288d.chunk.js",
+    "static/media/cat.jpeg": "/doctorLeon12345/my-appweb.github.io/static/media/cat.7fa0ce3d451f234b8905.jpeg",
+    "static/media/logo.svg": "/doctorLeon12345/my-appweb.github.io/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/doctorLeon12345/my-appweb.github.io/index.html",
+    "main.073c9b0a.css.map": "/doctorLeon12345/my-appweb.github.io/static/css/main.073c9b0a.css.map",
+    "main.42df00ce.js.map": "/doctorLeon12345/my-appweb.github.io/static/js/main.42df00ce.js.map",
+    "787.9da2288d.chunk.js.map": "/doctorLeon12345/my-appweb.github.io/static/js/787.9da2288d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.29ac4953.js"
+    "static/js/main.42df00ce.js"
   ]
 }
